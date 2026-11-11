@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/images/icon.svg" alt="" width="96">
+<p align=center>
+  <img src=icon.svg width=128>
 </p>
 
 # VibMus
